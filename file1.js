@@ -1,1 +1,1 @@
-dsa sads
+var user="apple";
